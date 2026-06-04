@@ -16,15 +16,15 @@ The analysis covers **2015–2017** and focuses on three questions:
 | Page | Content | Preview |
 |---|---|---|
 | Intro | Project brief and research questions |
-| Overview air traffic | KPI overview — 1.264.229 total flights, 70.2% delay rate, avg. 26.42 min delay | ![Overview](1_LAX_overview-air-traffic.png) |
+| Overview air traffic | KPI overview — 1.264.229 total flights, 70.2% delay rate, avg. 26.42 min delay | ![Overview](1.LAX_overview-air-traffic.png) |
 | Overview Airlines | Airline market share at LAX (top 5 account for 80%+) |
-| Top 3 Airlines | Airlines by avg delay per flight and delay share | ![Top 3 Airlines](2_LAX_top-3-airlines.png) |
-| Timeframe — year/quartal/month | Delay trends by year, quarter, and month | ![Timeframe](3_LAX_timeframe.png) |
+| Top 3 Airlines | Airlines by avg delay per flight and delay share | ![Top 3 Airlines](2.LAX_top-3-airlines.png) |
+| Timeframe — year/quartal/month | Delay trends by year, quarter, and month | ![Timeframe](3.LAX_timeframe.png) |
 | Timeframe — KW | Delay trends by calendar week, with event annotations |
 | Timeframe — day | Delay rate by day of week |
 | Timeframe — hour | Delay rate by hour of day |
-| Punctuality distribution | Delay distribution | ![Punctuality Distribution](4_LAX_punctuality-distribution.png) |
-| Findings | Results and operational recommendations | ![Findings](5_LAX_findings.png) |
+| Punctuality distribution | Delay distribution | ![Punctuality Distribution](4.LAX_punctuality-distribution.png) |
+| Findings | Results and operational recommendations | ![Findings](5.LAX_findings.png) |
 | Datenset | Raw data view |
 
 ---
