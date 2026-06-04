@@ -13,18 +13,18 @@ The analysis covers **2015–2017** and focuses on three questions:
 
 ## Dashboard structure
 
-| Page | Content |
-|---|---|
+| Page | Content | Preview |
+|---|---|---|
 | Intro | Project brief and research questions |
-| Overview air traffic | KPI overview — total flights, flight status breakdown, departure/arrival split |
+| Overview air traffic | KPI overview — 1.264.229 total flights, 70.2% delay rate, avg. 26.42 min delay | ![Overview](1_LAX_overview-air-traffic.png) |
 | Overview Airlines | Airline market share at LAX (top 5 account for 80%+) |
-| Top 3 Airlines | Airlines with highest average delay per flight vs. with highest share of delayed flights |
-| Timeframe — year/quartal/month | Delay trends by year, quarter, and month |
+| Top 3 Airlines | Airlines by avg delay per flight and delay share | ![Top 3 Airlines](2_LAX_top-3-airlines.png) |
+| Timeframe — year/quartal/month | Delay trends by year, quarter, and month | ![Timeframe](3_LAX_timeframe.png) |
 | Timeframe — KW | Delay trends by calendar week, with event annotations |
 | Timeframe — day | Delay rate by day of week |
 | Timeframe — hour | Delay rate by hour of day |
-| Punctuality distribution | Distribution of delays |
-| Findings | Results and operational recommendations |
+| Punctuality distribution | Delay distribution | ![Punctuality Distribution](4_LAX_punctuality-distribution.png) |
+| Findings | Results and operational recommendations | ![Findings](5_LAX_findings.png) |
 | Datenset | Raw data view |
 
 ---
@@ -92,7 +92,7 @@ The report uses the following fields from the source dataset:
 
 ## How to open this project
 
-1. Download [LT_lax-flight-delay-analysis.pbix](./LT_lax-flight-delay-analysis.pbix)
+1. Download [`LT_lax-flight-delay-analysis.pbix`](./LT_lax-flight-delay-analysis.pbix)
 2. Open in **Power BI Desktop** (free — [download here](https://powerbi.microsoft.com/desktop/))
 3. All data is embedded — no external connection required
 
