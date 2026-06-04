@@ -92,7 +92,7 @@ The report uses the following fields from the source dataset:
 
 ## How to open this project
 
-1. Download [`LT_lax-flight-delay-analysis.pbix](./LT_lax-flight-delay-analysis.pbix)
+1. Download [LT_lax-flight-delay-analysis.pbix](./LT_lax-flight-delay-analysis.pbix)
 2. Open in **Power BI Desktop** (free — [download here](https://powerbi.microsoft.com/desktop/))
 3. All data is embedded — no external connection required
 
