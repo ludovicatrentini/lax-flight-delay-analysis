@@ -96,8 +96,6 @@ The report uses the following fields from the source dataset:
 2. Open in **Power BI Desktop** (free — [download here](https://powerbi.microsoft.com/desktop/))
 3. All data is embedded — no external connection required
 
-> Screenshots coming soon.
-
 ---
 
 **[Ludovica Trentini](https://github.com/ludovicatrentini)** · [LinkedIn](https://www.linkedin.com/in/ludovicatrentini) · Berlin
